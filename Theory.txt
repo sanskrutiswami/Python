@@ -1,0 +1,24 @@
+What are modules in Python?
+>> A python module is a .py file which contains
+   built-in-functions, classes, and variables. 
+>> Every module is built to carry out a specfic task.
+>> We can use modules created by others in our code. 
+>> There are two types of modules in python :
+   1. Built-in modules : These modules are already available 
+   for use that come along with the python programming language.
+   There is no need to externally install these modules.
+   2. External Modules : On the other hand, modules created
+   by other software devlopers, which are not built-in,
+   are called as External modules. These are intstalled with
+   the help of pip.
+
+What is REPL?
+>> REPL is acronym for Read Evaluate Print Loop.
+>> It is an interactive language shell
+   which is a computer programming environment
+   that takes single user inputs and executes them.
+
+
+Imp points regarding python :
+1. Everthing in Python is considered as an 'object'.
+2. There is no do-while loop in python.
