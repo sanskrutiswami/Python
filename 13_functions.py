@@ -1,3 +1,9 @@
+# Functions are the logic blocks which are written to carry out a particular task.
+# Once the function is declared, it can be called as many times as required.
+# Rather than writing code everytime, function can be created once and called several times.
+# Following are the examples of functions for performing calculations like average, finding greater number out of two given numbers, finding remainder of two numbers,
+# finding even and odd numbers by taking an input from the user.
+
 def average(a,b,c,d):
     avg = (a+b+c+d)/4;
     print(avg);
